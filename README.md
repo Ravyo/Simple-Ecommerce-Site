@@ -1,2 +1,2 @@
 # Simple-Ecommerce-Site
-A basic ecommerce site using djnago
+A basic ecommerce site using django
